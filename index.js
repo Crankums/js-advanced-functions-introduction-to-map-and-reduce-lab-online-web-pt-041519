@@ -43,5 +43,5 @@ function reduceToAllTrue(src) {
 }
 
 function reduceToAnyTrue() {
-  
+
 }
