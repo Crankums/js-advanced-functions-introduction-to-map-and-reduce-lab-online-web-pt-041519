@@ -27,6 +27,6 @@ function mapToSquare(src) {
   return arr
 }
 
-function reduceToTotal(src, startingPoint=0){ 
-    
+function reduceToTotal(src, startingPoint=0){
+
 }
