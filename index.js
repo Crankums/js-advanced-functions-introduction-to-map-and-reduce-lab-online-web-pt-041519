@@ -17,3 +17,7 @@ function mapToSquare(sourceArray) {
   const arr = sourceArray.map(el => Math.pow(el, 2))
   return arr
 }
+
+function reduceToTotal(sourceArray) {
+  const red = 
+}
