@@ -19,5 +19,5 @@ function mapToSquare(sourceArray) {
 }
 
 function reduceToTotal(sourceArray) {
-  const red = 
+  const red =
 }
