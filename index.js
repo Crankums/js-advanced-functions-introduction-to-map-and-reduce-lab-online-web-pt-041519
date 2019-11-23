@@ -7,3 +7,7 @@ function mapToNegativize(src) {
   }
   return arr
 }
+
+mapToNoChange(src) {
+  return src
+}
