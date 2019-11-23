@@ -7,3 +7,8 @@ function mapToNegativize(sourceArray) {
 function mapToNoChange(sourceArray) {
   return sourceArray
 }
+
+function mapToDouble(sourceArray) {
+  const arr = sourceArray.map(el => el*2)
+  return arr
+}
