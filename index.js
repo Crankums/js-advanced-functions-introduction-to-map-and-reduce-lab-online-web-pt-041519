@@ -18,6 +18,6 @@ function mapToSquare(sourceArray) {
   return arr
 }
 
-function reduceToTotal(sourceArray) {
+function reduceToTotal(sourceArray, startInt = 0) {
   const red =
 }
