@@ -24,5 +24,5 @@ function mapToSquare(src) {
   for (let i=0; i<src.length; i++) {
     arr.push(Math.pow(src[i], 2))
   }
-
+  return arr
 }
