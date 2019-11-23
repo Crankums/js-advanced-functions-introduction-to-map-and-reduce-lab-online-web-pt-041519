@@ -34,4 +34,3 @@ function reduceToTotal(src, startingPoint=0){
   }
   return total
 }
-
