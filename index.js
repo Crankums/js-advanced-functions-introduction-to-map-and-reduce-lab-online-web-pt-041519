@@ -42,4 +42,4 @@ function reduceToAllTrue(src) {
   return true
 }
 
-function 
+function
