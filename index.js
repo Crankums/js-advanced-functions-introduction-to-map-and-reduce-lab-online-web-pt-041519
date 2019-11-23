@@ -34,3 +34,10 @@ function reduceToTotal(src, startingPoint=0){
   }
   return total
 }
+
+reduceToAllTrue(src) {
+  for (let i=0, i<src.length, i++){
+    if (!src[1]) return false 
+  }
+  return true
+}
