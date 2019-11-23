@@ -43,5 +43,8 @@ function reduceToAllTrue(src) {
 }
 
 function reduceToAnyTrue() {
-  return true
+  for (let i=0; i<src.length; i++) {
+    if (src[i]) return true
+  }
+  return false
 }
