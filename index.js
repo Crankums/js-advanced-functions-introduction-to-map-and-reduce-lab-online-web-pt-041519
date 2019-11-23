@@ -12,3 +12,8 @@ function mapToDouble(sourceArray) {
   const arr = sourceArray.map(el => el*2)
   return arr
 }
+
+function mapToSquare(sourceArray) {
+  const arr = sourceArray.map(el => el**2)
+  return arr
+}
